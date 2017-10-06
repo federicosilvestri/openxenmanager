@@ -33,7 +33,7 @@ Installing OpenXenManager on Ubuntu/Debian
 If you want to install OpenXenManager on your Ubuntu/Debian platform
 you can copy this command in your shell:
 
-```curl <url> | sudo bash```
+```curl https://raw.githubusercontent.com/federicosilvestri/openxenmanager/master/install/ubuntu-install.sh | sudo bash```
 
 
 Running OpenXenManager
