@@ -18,7 +18,7 @@ apt-get update
 apt-get install -y git python-gtk2 glade python-gtk-vnc python-glade2 python-configobj python-setuptools
 
 # Clone project on tmp location
-git clone https://github.com/OpenXenManager/openxenmanager.git $TMP_LOCATION
+git clone https://github.com/federicosilvestri/openxenmanager.git $TMP_LOCATION
 
 # Run installation
 cd $TMP_LOCATION
