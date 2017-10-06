@@ -28,6 +28,14 @@ and release announcements:
 https://lists.sourceforge.net/lists/listinfo/openxenmanager-announce
 
 
+Installing OpenXenManager on Ubuntu/Debian
+==========================================
+If you want to install OpenXenManager on your Ubuntu/Debian platform
+you can copy this command in your shell:
+
+```curl <url> | sudo bash```
+
+
 Running OpenXenManager
 ======================
 To launch OpenXenManager simply run the "openxenmanager" script.
